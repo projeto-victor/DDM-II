@@ -1,0 +1,15 @@
+body{
+    background: url("alians.jpg") center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 130px 130px 130px;
+    margin: 400px 0 0 680px;
+    gap: 4px;
+}
+h1{
+    color: white;
+}
